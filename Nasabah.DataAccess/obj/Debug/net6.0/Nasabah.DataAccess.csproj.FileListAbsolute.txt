@@ -1,0 +1,14 @@
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.DataAccess\bin\Debug\net6.0\Nasabah.DataAccess.deps.json
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.DataAccess\bin\Debug\net6.0\Nasabah.DataAccess.runtimeconfig.json
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.DataAccess\bin\Debug\net6.0\Nasabah.DataAccess.dll
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.DataAccess\bin\Debug\net6.0\Nasabah.DataAccess.pdb
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.DataAccess\obj\Debug\net6.0\Nasabah.DataAccess.csproj.AssemblyReference.cache
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.DataAccess\obj\Debug\net6.0\Nasabah.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.DataAccess\obj\Debug\net6.0\Nasabah.DataAccess.AssemblyInfoInputs.cache
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.DataAccess\obj\Debug\net6.0\Nasabah.DataAccess.AssemblyInfo.cs
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.DataAccess\obj\Debug\net6.0\Nasabah.DataAccess.csproj.CoreCompileInputs.cache
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.DataAccess\obj\Debug\net6.0\Nasabah.DataAccess.dll
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.DataAccess\obj\Debug\net6.0\refint\Nasabah.DataAccess.dll
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.DataAccess\obj\Debug\net6.0\Nasabah.DataAccess.pdb
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.DataAccess\obj\Debug\net6.0\Nasabah.DataAccess.genruntimeconfig.cache
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.DataAccess\obj\Debug\net6.0\ref\Nasabah.DataAccess.dll

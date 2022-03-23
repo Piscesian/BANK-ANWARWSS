@@ -1,0 +1,226 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Anwar\\cobaa\\NasabahForWss\\NasabahForWSS\\NasabahForWSS\\NasabahForWSS.csproj": {}
+  },
+  "projects": {
+    "C:\\Anwar\\cobaa\\NasabahForWss\\NasabahForWSS\\Nasabah.ServiceProvider\\Nasabah.ServiceProvider.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Anwar\\cobaa\\NasabahForWss\\NasabahForWSS\\Nasabah.ServiceProvider\\Nasabah.ServiceProvider.csproj",
+        "projectName": "Nasabah.ServiceProvider",
+        "projectPath": "C:\\Anwar\\cobaa\\NasabahForWss\\NasabahForWSS\\Nasabah.ServiceProvider\\Nasabah.ServiceProvider.csproj",
+        "packagesPath": "C:\\Users\\1243\\.nuget\\packages\\",
+        "outputPath": "C:\\Anwar\\cobaa\\NasabahForWss\\NasabahForWSS\\Nasabah.ServiceProvider\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\1243\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Anwar\\cobaa\\NasabahForWss\\NasabahForWSS\\Nasabah.ViewModel\\Nasabah.ViewModel.csproj": {
+                "projectPath": "C:\\Anwar\\cobaa\\NasabahForWss\\NasabahForWSS\\Nasabah.ViewModel\\Nasabah.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Caching.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.DirectoryServices.AccountManagement": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.DirectoryServices.Protocols": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "System.Linq.Dynamic.Core": {
+              "target": "Package",
+              "version": "[1.2.18, )"
+            },
+            "System.Runtime.Caching": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Anwar\\cobaa\\NasabahForWss\\NasabahForWSS\\Nasabah.ViewModel\\Nasabah.ViewModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Anwar\\cobaa\\NasabahForWss\\NasabahForWSS\\Nasabah.ViewModel\\Nasabah.ViewModel.csproj",
+        "projectName": "Nasabah.ViewModel",
+        "projectPath": "C:\\Anwar\\cobaa\\NasabahForWss\\NasabahForWSS\\Nasabah.ViewModel\\Nasabah.ViewModel.csproj",
+        "packagesPath": "C:\\Users\\1243\\.nuget\\packages\\",
+        "outputPath": "C:\\Anwar\\cobaa\\NasabahForWss\\NasabahForWSS\\Nasabah.ViewModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\1243\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Anwar\\cobaa\\NasabahForWss\\NasabahForWSS\\NasabahForWSS\\NasabahForWSS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Anwar\\cobaa\\NasabahForWss\\NasabahForWSS\\NasabahForWSS\\NasabahForWSS.csproj",
+        "projectName": "NasabahForWSS",
+        "projectPath": "C:\\Anwar\\cobaa\\NasabahForWss\\NasabahForWSS\\NasabahForWSS\\NasabahForWSS.csproj",
+        "packagesPath": "C:\\Users\\1243\\.nuget\\packages\\",
+        "outputPath": "C:\\Anwar\\cobaa\\NasabahForWss\\NasabahForWSS\\NasabahForWSS\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\1243\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Anwar\\cobaa\\NasabahForWss\\NasabahForWSS\\Nasabah.ServiceProvider\\Nasabah.ServiceProvider.csproj": {
+                "projectPath": "C:\\Anwar\\cobaa\\NasabahForWss\\NasabahForWSS\\Nasabah.ServiceProvider\\Nasabah.ServiceProvider.csproj"
+              },
+              "C:\\Anwar\\cobaa\\NasabahForWss\\NasabahForWSS\\Nasabah.ViewModel\\Nasabah.ViewModel.csproj": {
+                "projectPath": "C:\\Anwar\\cobaa\\NasabahForWss\\NasabahForWSS\\Nasabah.ViewModel\\Nasabah.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.14.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

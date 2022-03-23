@@ -1,0 +1,12 @@
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.ViewModel\bin\Debug\net6.0\Nasabah.ViewModel.deps.json
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.ViewModel\bin\Debug\net6.0\Nasabah.ViewModel.dll
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.ViewModel\bin\Debug\net6.0\Nasabah.ViewModel.pdb
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.ViewModel\obj\Debug\net6.0\Nasabah.ViewModel.csproj.AssemblyReference.cache
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.ViewModel\obj\Debug\net6.0\Nasabah.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.ViewModel\obj\Debug\net6.0\Nasabah.ViewModel.AssemblyInfoInputs.cache
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.ViewModel\obj\Debug\net6.0\Nasabah.ViewModel.AssemblyInfo.cs
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.ViewModel\obj\Debug\net6.0\Nasabah.ViewModel.csproj.CoreCompileInputs.cache
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.ViewModel\obj\Debug\net6.0\Nasabah.ViewModel.dll
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.ViewModel\obj\Debug\net6.0\refint\Nasabah.ViewModel.dll
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.ViewModel\obj\Debug\net6.0\Nasabah.ViewModel.pdb
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.ViewModel\obj\Debug\net6.0\ref\Nasabah.ViewModel.dll

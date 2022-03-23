@@ -1,0 +1,2 @@
+﻿
+Scaffold-DbContext -Connection "Server=LAPTOP-02S8TPOT;Database=Nasabah;user=sa;password=123581321o;" -Provider Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Force

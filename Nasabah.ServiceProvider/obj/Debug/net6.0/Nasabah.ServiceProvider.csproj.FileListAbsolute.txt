@@ -1,0 +1,15 @@
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.ServiceProvider\bin\Debug\net6.0\Nasabah.ServiceProvider.deps.json
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.ServiceProvider\bin\Debug\net6.0\Nasabah.ServiceProvider.dll
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.ServiceProvider\bin\Debug\net6.0\Nasabah.ServiceProvider.pdb
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.ServiceProvider\bin\Debug\net6.0\Nasabah.ViewModel.dll
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.ServiceProvider\bin\Debug\net6.0\Nasabah.ViewModel.pdb
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.ServiceProvider\obj\Debug\net6.0\Nasabah.ServiceProvider.csproj.AssemblyReference.cache
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.ServiceProvider\obj\Debug\net6.0\Nasabah.ServiceProvider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.ServiceProvider\obj\Debug\net6.0\Nasabah.ServiceProvider.AssemblyInfoInputs.cache
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.ServiceProvider\obj\Debug\net6.0\Nasabah.ServiceProvider.AssemblyInfo.cs
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.ServiceProvider\obj\Debug\net6.0\Nasabah.ServiceProvider.csproj.CoreCompileInputs.cache
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.ServiceProvider\obj\Debug\net6.0\Nasabah.ServiceProvider.csproj.CopyComplete
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.ServiceProvider\obj\Debug\net6.0\Nasabah.ServiceProvider.dll
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.ServiceProvider\obj\Debug\net6.0\refint\Nasabah.ServiceProvider.dll
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.ServiceProvider\obj\Debug\net6.0\Nasabah.ServiceProvider.pdb
+C:\Anwar\cobaa\NasabahForWss\NasabahForWSS\Nasabah.ServiceProvider\obj\Debug\net6.0\ref\Nasabah.ServiceProvider.dll
