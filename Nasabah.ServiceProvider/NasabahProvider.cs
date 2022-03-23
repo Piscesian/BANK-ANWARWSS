@@ -158,7 +158,7 @@ namespace Nasabah.ServiceProvider
                 cacheData.Add(newdata);
                 _memoryCache.Set("ListNasabah", cacheData, TimeSpan.FromDays(1));
                 result.IsSuccess = true;
-                result.Data = data;
+                result.Data = model;
                 return result;
             }
             catch (Exception e)
