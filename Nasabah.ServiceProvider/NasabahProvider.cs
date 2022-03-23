@@ -56,9 +56,9 @@ namespace Nasabah.ServiceProvider
                 _memoryCache.Set("ListNasabah", cacheValue, cacheEntryOptions);
             }
             var cacheData = cacheValue.ToList();
-
-            result.Data = cacheValue;
-            result.ItemsCount = _views.Count();
+            result.IsSuccess = true;
+            result.Data = cacheData;
+            result.ItemsCount = cacheData.Count();
             return result;
         }
         public AjaxViewModel GetDataByKTP(string NoKTP)
@@ -86,8 +86,9 @@ namespace Nasabah.ServiceProvider
                 _memoryCache.Set("ListNasabah", cacheValue, cacheEntryOptions);
             }
             var cacheData = cacheValue.ToList().Where(x=> x.NoKTP == NoKTP);
+            result.IsSuccess=true;
             result.Data = cacheData;
-            result.ItemsCount =_views.Count();
+            result.ItemsCount =cacheData.Count();
             return result;
         }
 
